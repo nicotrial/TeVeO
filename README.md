@@ -1,1 +1,2 @@
-# TeVeO a siple script to locate presence of people that have any type of wifi anabled divice (specialy phones)  :D
+# TeVeO
+A simple script to locate presence of people that have any type of wifi enabled divice (specialy phones) by capuring probe requests  :D
